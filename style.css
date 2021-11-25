@@ -13,6 +13,7 @@ h2 {
   font-size: 32px;
   color: white;
   opacity: 0.9;
+  font-weight: bold;
 }
 
 p {
@@ -31,13 +32,13 @@ h3 {
 }
 
 #blueh {
-  background-color: #7171bd;
+  background-color: skyblue;
 }
 
 #green {
-  background-color: #44b944;
+  background-color: mediumspringgreen;
 }
 
 #red {
-  background-color: #ff4949;
+  background-color: lightcoral;
 }
